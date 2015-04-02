@@ -1,0 +1,7 @@
+{
+  "name": "Elevate Java app",
+  "description": "A simple Java app from the Salesforce Elevate workhshop",
+  "repository": "https://github.com/github-account/repository-name",
+  "logo": "http://jr0cket.co.uk/play-heroku-workshop/images/java-duke-wave.png",
+  "keywords": ["java", "maven"]
+}
